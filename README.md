@@ -16,7 +16,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Repos](#azure-repos)
 - [Azure Test Plans](#azure-test-plans)
 - [Azure Artifacts](#azure-artifacts)
-- [Extension Marketplace](#extension-marketplace)
+- [Extensions Marketplace](#extensions-marketplace)
 
 - - -
 
