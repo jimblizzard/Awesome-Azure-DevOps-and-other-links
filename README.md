@@ -17,6 +17,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Test Plans](#azure-test-plans)
 - [Azure Artifacts](#azure-artifacts)
 - [Extensions Marketplace](#extensions-marketplace)
+- [Workloads](#workloads)
 
 - - -
 
@@ -64,3 +65,6 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Extensions Marketplace
 * [Extensions](https://marketplace.visualstudio.com/azuredevops)
+
+## Workloads
+* [Containerized Docker Application Lifecycle with Microsoft Platform and Tools](https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/)
