@@ -34,6 +34,7 @@ guide and add the link you want to contribute in alphabetical order.
 * [Azure Repos](https://azure.microsoft.com/en-us/services/devops/repos/)
 * [Azure Test Plans](https://azure.microsoft.com/en-us/services/devops/test-plans/)
 * [Azure Artifacts](https://azure.microsoft.com/en-us/services/devops/artifacts/)
+* [Azure DevOps Features Timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/)
 
 ## Training Resources
 
