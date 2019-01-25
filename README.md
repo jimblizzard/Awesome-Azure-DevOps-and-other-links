@@ -18,6 +18,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Azure Artifacts](#azure-artifacts)
 - [Extensions Marketplace](#extensions-marketplace)
 - [Workloads](#workloads)
+- [Azure](#azure)
 
 - - -
 
@@ -68,3 +69,11 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Workloads
 * [Containerized Docker Application Lifecycle with Microsoft Platform and Tools](https://docs.microsoft.com/en-us/dotnet/standard/containerized-lifecycle-architecture/)
+
+## Azure
+###Containers
+* Azure Kubernetes Service
+    * [Overview](https://azure.microsoft.com/en-us/services/kubernetes-service/)
+    * [Documentation](https://docs.microsoft.com/en-us/azure/aks/)
+    * [Tutorial - VS Code & CLI](https://docs.microsoft.com/en-us/azure/dev-spaces/get-started-nodejs)
+    * [Hands-on Lab - Deploying a multi-container application to Azure Kubernetes Services](https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/)
