@@ -39,6 +39,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Microsoft Learn](https://docs.microsoft.com/learn)
 * [Get Started with Azure DevOps](https://docs.microsoft.com/en-us/learn/modules/get-started-with-devops/)
+* [Azure DevOps Labs - hands-on labs](https://www.azuredevopslabs.com/)
 
 ## Azure Boards
 * [Overview](https://azure.microsoft.com/en-us/services/devops/boards)
