@@ -77,3 +77,6 @@ guide and add the link you want to contribute in alphabetical order.
     * [Documentation](https://docs.microsoft.com/en-us/azure/aks/)
     * [Tutorial - VS Code & CLI](https://docs.microsoft.com/en-us/azure/dev-spaces/get-started-nodejs)
     * [Hands-on Lab - Deploying a multi-container application to Azure Kubernetes Services](https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/)
+
+### Migration
+* [App Service Migration Assistant](https://www.movemetothecloud.net/)
