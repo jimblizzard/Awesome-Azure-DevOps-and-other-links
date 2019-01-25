@@ -24,7 +24,8 @@ guide and add the link you want to contribute in alphabetical order.
 
 * [Free Azure DevOps Subscription](https://azure.microsoft.com/en-us/services/devops/)
 * [Free Azure Subscription](https://azure.microsoft.com/en-us/free/)
-* [Azure Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azdevops)
+* [Azure DevOps Documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azdevops)
+* [Azure DevOps Server Documentation](https://docs.microsoft.com/en-us/tfs/index)
 * [Azure DevOps Blog](https://blogs.msdn.microsoft.com/devops/)
 * [Azure Interactives: Products, Design Patterns, Security](http://azureinteractives.azurewebsites.net/)
 * [Azure Periodic Table](http://www.concurrency.com/landing/azure-periodic-table)
